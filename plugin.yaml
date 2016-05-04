@@ -1,0 +1,6 @@
+plugin:
+    name: 'davidleonard.maintenanceconsole::lang.plugin.name'
+    description: 'davidleonard.maintenanceconsole::lang.plugin.description'
+    author: 'David Leonard'
+    icon: oc-icon-terminal
+    homepage: ''
