@@ -21,7 +21,7 @@ class Maint extends Command
      * Execute the console command.
      * @return void
      */
-    public function fire()
+    public function handle()
     {
 	$command = implode(' ', (array) $this->argument('name'));
 	$status = MaintenanceSetting::get('is_enabled');
